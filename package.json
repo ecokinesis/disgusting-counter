@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "disgusting counter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecokinesis/disgusting-counter.git"
+  },
+  "author": "echo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.16.3"
+  }
+}
